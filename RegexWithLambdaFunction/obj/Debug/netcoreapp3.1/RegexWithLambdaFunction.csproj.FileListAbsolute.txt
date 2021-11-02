@@ -1,0 +1,14 @@
+C:\Users\gyans\source\repos\RegexWithLambdaFunction\RegexWithLambdaFunction\bin\Debug\netcoreapp3.1\RegexWithLambdaFunction.exe
+C:\Users\gyans\source\repos\RegexWithLambdaFunction\RegexWithLambdaFunction\bin\Debug\netcoreapp3.1\RegexWithLambdaFunction.deps.json
+C:\Users\gyans\source\repos\RegexWithLambdaFunction\RegexWithLambdaFunction\bin\Debug\netcoreapp3.1\RegexWithLambdaFunction.runtimeconfig.json
+C:\Users\gyans\source\repos\RegexWithLambdaFunction\RegexWithLambdaFunction\bin\Debug\netcoreapp3.1\RegexWithLambdaFunction.runtimeconfig.dev.json
+C:\Users\gyans\source\repos\RegexWithLambdaFunction\RegexWithLambdaFunction\bin\Debug\netcoreapp3.1\RegexWithLambdaFunction.dll
+C:\Users\gyans\source\repos\RegexWithLambdaFunction\RegexWithLambdaFunction\bin\Debug\netcoreapp3.1\RegexWithLambdaFunction.pdb
+C:\Users\gyans\source\repos\RegexWithLambdaFunction\RegexWithLambdaFunction\obj\Debug\netcoreapp3.1\RegexWithLambdaFunction.csproj.AssemblyReference.cache
+C:\Users\gyans\source\repos\RegexWithLambdaFunction\RegexWithLambdaFunction\obj\Debug\netcoreapp3.1\RegexWithLambdaFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gyans\source\repos\RegexWithLambdaFunction\RegexWithLambdaFunction\obj\Debug\netcoreapp3.1\RegexWithLambdaFunction.AssemblyInfoInputs.cache
+C:\Users\gyans\source\repos\RegexWithLambdaFunction\RegexWithLambdaFunction\obj\Debug\netcoreapp3.1\RegexWithLambdaFunction.AssemblyInfo.cs
+C:\Users\gyans\source\repos\RegexWithLambdaFunction\RegexWithLambdaFunction\obj\Debug\netcoreapp3.1\RegexWithLambdaFunction.csproj.CoreCompileInputs.cache
+C:\Users\gyans\source\repos\RegexWithLambdaFunction\RegexWithLambdaFunction\obj\Debug\netcoreapp3.1\RegexWithLambdaFunction.dll
+C:\Users\gyans\source\repos\RegexWithLambdaFunction\RegexWithLambdaFunction\obj\Debug\netcoreapp3.1\RegexWithLambdaFunction.pdb
+C:\Users\gyans\source\repos\RegexWithLambdaFunction\RegexWithLambdaFunction\obj\Debug\netcoreapp3.1\RegexWithLambdaFunction.genruntimeconfig.cache
