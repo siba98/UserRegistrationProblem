@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegexWithLambdaFunction", "RegexWithLambdaFunction\RegexWithLambdaFunction.csproj", "{2F32B3E8-F4B6-4703-B136-4D5594C2BD88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegularExpressionTest", "RegularExpressionTest\RegularExpressionTest.csproj", "{D85D7EA6-9F51-4E5E-AC49-4DA936CD8987}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F32B3E8-F4B6-4703-B136-4D5594C2BD88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F32B3E8-F4B6-4703-B136-4D5594C2BD88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F32B3E8-F4B6-4703-B136-4D5594C2BD88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F32B3E8-F4B6-4703-B136-4D5594C2BD88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D85D7EA6-9F51-4E5E-AC49-4DA936CD8987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D85D7EA6-9F51-4E5E-AC49-4DA936CD8987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D85D7EA6-9F51-4E5E-AC49-4DA936CD8987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D85D7EA6-9F51-4E5E-AC49-4DA936CD8987}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3790F0B4-FD01-49A9-A67B-CA1350B976AC}
+	EndGlobalSection
+EndGlobal

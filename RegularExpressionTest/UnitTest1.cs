@@ -73,7 +73,7 @@ namespace NUnitTest
             }
             catch (RegularExpressionCustomException ex)
             {
-                Assert.AreEqual("FirstName Could not be Empty", ex.Message);
+                Assert.AreEqual("FirstName Could not be Empty or null", ex.Message);
             }
         }
 
@@ -102,7 +102,7 @@ namespace NUnitTest
             }
             catch (RegularExpressionCustomException ex)
             {
-                Assert.AreEqual("LastName Could not be Empty", ex.Message);
+                Assert.AreEqual("LastName Could not be Empty or null", ex.Message);
             }
         }
         //Test 10:- Invalid Email Exception
@@ -130,7 +130,7 @@ namespace NUnitTest
             }
             catch (RegularExpressionCustomException ex)
             {
-                Assert.AreEqual("Email Could not be Empty", ex.Message);
+                Assert.AreEqual("Email Could not be Empty or null", ex.Message);
             }
         }
 
@@ -160,7 +160,7 @@ namespace NUnitTest
             }
             catch (RegularExpressionCustomException ex)
             {
-                Assert.AreEqual("Phone Number Could not be Empty", ex.Message);
+                Assert.AreEqual("Phone Number Could not be Empty or null", ex.Message);
             }
         }
 
@@ -190,7 +190,7 @@ namespace NUnitTest
             }
             catch (RegularExpressionCustomException ex)
             {
-                Assert.AreEqual("Password Could not be Empty", ex.Message);
+                Assert.AreEqual("Password Could not be Empty or null", ex.Message);
             }
         }
     }

@@ -68,8 +68,8 @@ namespace RegexWithLambdaFunction
                         string output4 = regularExpression9.LambdaExpressionPhoneNumberCheck(phno1);
                         Console.WriteLine(output4);
                         Console.WriteLine("enter password");
-                        string password4 = Console.ReadLine();
-                        string output5 = regularExpression9.LambdaExpressionpasswordCheck(password4);
+                        string password1 = Console.ReadLine();
+                        string output5 = regularExpression9.LambdaExpressionpasswordCheck(password1);
                         Console.WriteLine(output5);
                         break;
                     default:

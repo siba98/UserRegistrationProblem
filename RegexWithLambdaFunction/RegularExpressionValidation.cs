@@ -18,7 +18,7 @@ namespace RegexWithLambdaFunction
             try
             {
                 if (string.IsNullOrEmpty(firstName))
-                    throw new RegularExpressionCustomException(RegularExpressionCustomException.InvalidUserdetails.EMPTY_NAME, "FirstName Could not be Empty");
+                    throw new RegularExpressionCustomException(RegularExpressionCustomException.InvalidUserdetails.EMPTY_NAME, "FirstName Could not be Empty or null");
                 if (Regex.IsMatch(firstName, FIRSTNAME_PATTERN))
                     return "First Name Validated";
                 else
@@ -41,7 +41,7 @@ namespace RegexWithLambdaFunction
             try
             {
                 if (string.IsNullOrEmpty(lastName))
-                    throw new RegularExpressionCustomException(RegularExpressionCustomException.InvalidUserdetails.EMPTY_NAME, "LastName Could not be Empty");
+                    throw new RegularExpressionCustomException(RegularExpressionCustomException.InvalidUserdetails.EMPTY_NAME, "LastName Could not be Empty or null");
                 if (Regex.IsMatch(lastName, LASTNAME_PATTERN))
                     Console.WriteLine("Last Name Validated");
                 else
@@ -64,7 +64,7 @@ namespace RegexWithLambdaFunction
             try
             {
                 if (string.IsNullOrEmpty(email))
-                    throw new RegularExpressionCustomException(RegularExpressionCustomException.InvalidUserdetails.EMPTY_EMAIL, "Email Could not be Empty");
+                    throw new RegularExpressionCustomException(RegularExpressionCustomException.InvalidUserdetails.EMPTY_EMAIL, "Email Could not be Empty or null");
                 if (Regex.IsMatch(email, EMAIL_PATTEREN))
                     return "email is Validated";
                 else
@@ -87,7 +87,7 @@ namespace RegexWithLambdaFunction
             try
             {
                 if (string.IsNullOrEmpty(phno))
-                    throw new RegularExpressionCustomException(RegularExpressionCustomException.InvalidUserdetails.EMPTY_PHONE_NO, "Phone Number Could not be Empty");
+                    throw new RegularExpressionCustomException(RegularExpressionCustomException.InvalidUserdetails.EMPTY_PHONE_NO, "Phone Number Could not be Empty or null");
                 if (Regex.IsMatch(phno, PHONE_NUMBER_PATTEREN))
                     return "phno is Validated";
                 else
@@ -110,7 +110,7 @@ namespace RegexWithLambdaFunction
             try
             {
                 if (string.IsNullOrEmpty(password))
-                    throw new RegularExpressionCustomException(RegularExpressionCustomException.InvalidUserdetails.EMPTY_PASSWORD, "Password Could not be Empty");
+                    throw new RegularExpressionCustomException(RegularExpressionCustomException.InvalidUserdetails.EMPTY_PASSWORD, "Password Could not be Empty or null");
                 if (Regex.IsMatch(password, PASSWORD_PATTEREN))
                     Console.WriteLine("password is Validated");
                 else
